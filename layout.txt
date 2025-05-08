@@ -1,0 +1,48 @@
+ Workshop – Hands-on, interactive learning sessions led by experts.
+1. Navbar
+Logo, anchor links (Overview, Instructor, Schedule, Register), and a CTA like “Reserve Your Spot”.
+
+2. Hero Section
+Engaging headline (e.g., “Master New Skills in Just One Day!”) with a short subheadline and CTA button.
+
+3. About the Workshop
+Brief description explaining the workshop’s topic, purpose, and what makes it practical and valuable.
+
+4. Workshop Highlights
+Bullet points showing what’s unique—live exercises, real-world projects, small group size.
+
+5. Who Should Attend
+Ideal participant profile (e.g., beginners, managers, creatives).
+
+6. Agenda / Workshop Flow
+Simple schedule: introduction → hands-on exercises → group discussions → wrap-up.
+
+7. Instructor Bio
+Photo and bio of the workshop leader, showcasing expertise and experience.
+
+8. Skills You’ll Gain
+List of practical skills participants will leave with.
+
+9. Student Testimonials
+Quotes or videos from previous workshop participants.
+
+10. Workshop Materials Included
+List any extras like workbooks, templates, software access.
+
+11. Venue Information
+Address, map, parking details if physical; platform and link details if virtual.
+
+12. Pricing & Packages
+Workshop fee, group discounts, and what’s included.
+
+13. Limited Seats Warning
+Urgency banner like “Only 20 seats available – Register Now!”.
+
+14. FAQs
+Questions about preparation, what to bring, level of knowledge required, etc.
+
+15. Final CTA Banner
+Motivational close (e.g., “Level Up Your Skills in Just One Day — Join Us!”) with a strong CTA button.
+
+16. Footer
+Logo, navigation links, privacy policy, terms, and contact information.
